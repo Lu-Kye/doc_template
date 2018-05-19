@@ -16,4 +16,4 @@ php publish.php
 ```shell
 sh server.sh
 ```
-[url](http://localhost:4000)
+[Open localhost:4000](http://localhost:4000)
